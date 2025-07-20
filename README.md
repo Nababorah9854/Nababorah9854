@@ -5,7 +5,7 @@ Hi 👋, I'm Nabanita Borah
 🎯 Passionate learner in AI, Machine Learning, and Deep Learning  
 🧠 Currently building and experimenting with ML and hybrid quantum-classical models  
 📊 Gaining hands-on experience in data preprocessing, model development, and evaluation  
-📚 Exploring cutting-edge topics like LLMs, Quantum ML, and MLOps  
+📚 Exploring topics like LLMs, Quantum ML, and MLOps  
 💡 Interested in real-world AI applications in health, education, and sustainability  
 🌱 Always learning — always building
 
