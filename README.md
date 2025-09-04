@@ -1,29 +1,20 @@
-Hi 👋, I'm Nabanita Borah  
-🚀 Aspiring AI & Machine Learning Engineer | Passionate about turning ideas into intelligent systems
+Hi 👋, I'm Nabanita Borah
+🚀 Aspiring Data Professional | Exploring the World of Data, Analytics & ML
 
-🌟 About Me  
-🎯 Passionate learner in AI, Machine Learning, and Deep Learning  
-🧠 Currently building and experimenting with ML and hybrid quantum-classical models  
-📊 Gaining hands-on experience in data preprocessing, model development, and evaluation  
-📚 Exploring topics like LLMs, Quantum ML, and MLOps  
-💡 Interested in real-world AI applications in health, education, and sustainability  
-🌱 Always learning — always building
+🌟 About Me
+🎯 Passionate about uncovering insights through data and solving real-world problems
+🧠 Currently learning and experimenting with Data Analytics, Machine Learning, and Quantum ML
+📊 Hands-on experience in data preprocessing, visualization, model development, and evaluation
+🗄️ Exploring SQL, PostgreSQL, and DSA to strengthen my foundations in data and problem-solving
+⚡ Interested in the intersection of data, technology, and decision-making
+🌱 A continuous learner, curious builder, and open to collaborations in data-driven projects
 
 📫 Reach me: borahnabanitawork@gmail.com  
 
 ## 🏗️ Projects
 
-1. **Quantum ML Project** - [Repo Link]  
+1. **Quantum ML Project** - (https://github.com/Nababorah9854/quantum-ml-project)  
    Hybrid Quantum-Classical Models for Image Classification  
-   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-
-2. **Depression Classifier** - [Repo Link]  
-   RandomForest & Deep Learning project for predicting depression levels  
-   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-
-3. **Skin Cancer Detection** - [Repo Link]  
-   CNN-based project using ISIC dataset  
-   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nababorah9854&theme=radical&no-frame=false&no-bg=true&margin-w=4)
