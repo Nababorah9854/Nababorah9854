@@ -11,6 +11,20 @@ Hi 👋, I'm Nabanita Borah
 
 📫 Reach me: borahnabanitawork@gmail.com  
 
+## 🏗️ Projects
+
+1. **Quantum ML Project** - [Repo Link]  
+   Hybrid Quantum-Classical Models for Image Classification  
+   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+2. **Depression Classifier** - [Repo Link]  
+   RandomForest & Deep Learning project for predicting depression levels  
+   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
+3. **Skin Cancer Detection** - [Repo Link]  
+   CNN-based project using ISIC dataset  
+   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nababorah9854&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
