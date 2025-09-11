@@ -24,8 +24,6 @@
 
 ## 📂 Featured Projects
 - [Quantum ML Project](https://github.com/Nababorah9854/quantum-ml-project) – Hybrid Quantum-Classical Models for Image Classification  
-- [Skin Cancer Detection](https://github.com/yourrepo) – Deep learning approach for classifying skin cancer images  
-- [Depression Analysis](https://github.com/yourrepo) – ML model to categorize depression levels among students  
 
 ---
 
