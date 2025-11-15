@@ -1,92 +1,107 @@
-<!-- Animated Colorful Premium README -->
-<!-- Replace BANNER_GIF_URL with your own banner GIF if you make one -->
+<!-- Beautiful Premium GitHub README for Nabanita -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=880&lines=Hi,+I'm+Nabanita+Borah+%F0%9F%91%8B;Aspiring+Data+Professional+%E2%9A%A1;Machine+Learning+%26+Quantum+ML" alt="typing" />
-</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#36BCF7;">Nabanita Borah</span></h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="colorful-banner" width="900" style="border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12)"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Professional;Machine+Learning+Enthusiast;Exploring+Quantum+ML" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Turning data into insights • Building ML models • Exploring Quantum ML</strong>
+🚀 <strong>Aspiring Data Professional</strong> | Diving into Data, Analytics & Machine Learning  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nababorah9854&color=blueviolet" />
 </p>
 
 ---
 
-## 📌 About Me
-- 🔍 Passionate about deriving insights from data and solving analytical problems  
-- 🧠 Working on **Machine Learning, Data Analytics & Quantum ML**  
-- 📊 Experience in **EDA, preprocessing, feature engineering & model development**  
-- 🗄 Building strong fundamentals in **SQL, PostgreSQL & DSA**  
-- 📬 Reach me: **borahnabanitawork@gmail.com**
+## 🌸 **About Me**
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+- 🎯 Passionate about uncovering insights through data  
+- 🧠 Exploring **Machine Learning, Data Analytics, and Quantum ML**  
+- 🧪 Skilled in **data preprocessing, visualization, and ML model building**  
+- 🗄️ Strengthening **SQL, PostgreSQL, and Data Structures**  
+- 🔍 Interested in **tech + decision-making + patterns in data**  
+- 🌱 Always learning, building, and experimenting  
+
+📫 **Reach me:** _borahnabanitawork@gmail.com_
+
+<br>
 
 ---
 
-## 🌈 Animated Highlights
-<p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-9cf?style=for-the-badge&logo=appveyor" alt="status" />
-  <img src="https://img.shields.io/badge/Top-Languages-Pastel?style=for-the-badge&logo=github" alt="langs" />
-  <img src="https://img.shields.io/badge/Focus-Quantum+ML-orange?style=for-the-badge" alt="quantum" />
-  <img src="https://komarev.com/ghpvc/?username=Nababorah9854&color=blueviolet" alt="profile-views" />
-</p>
+## ✨ **Featured Project**
 
-> ✨ Subtle animations keep the profile modern — the typing SVG + banner GIF create a lively but professional header.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python • R  
-**Databases:** MySQL • PostgreSQL • MongoDB  
-**ML & DL:** scikit-learn • PyTorch • TensorFlow • Keras  
-**Tools:** Pandas • NumPy • Matplotlib • MLflow • Git
-
----
-
-## 🚀 Featured Project
-### 🔹 Quantum ML for Image Classification  
-Exploring hybrid **Quantum–Classical ML** architectures for next-gen image models.  
+### 🔹 **Quantum ML Project**  
+Hybrid Quantum-Classical Models for Image Classification  
 🔗 https://github.com/Nababorah9854/quantum-ml-project
 
 ---
 
-## 📊 GitHub Analytics
+## 🌐 **Connect With Me**
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Nababorah9854&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&layout=compact&hide_border=true" />
-  <img height="160px" src="https://ghchart.rshah.org/Nababorah9854" alt="contribution chart" />
-</div>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/nabanita02">LinkedIn</a> •
-  <a href="https://x.com/mili_booo">X</a> •
-  <a href="mailto:borahnabanitawork@gmail.com">Email</a>
+<p align="left">
+  <a href="https://linkedin.com/in/nabanita02">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:borahnabanitawork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mili_booo">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔧 How to customize the animations (quick)
-1. **Change header typing text** — update the `readme-typing-svg` URL parameters in the top `<img>` tag.  
-   Example format:  
-   `https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=36BCF7&width=880&lines=Line1;Line2;Line3`
+## 💻 **Tech Stack**
 
-2. **Replace the banner GIF** — swap the `src` value of the banner GIF (`media.giphy.com/...`) with your own GIF URL.  
-   - Make a custom banner quickly: use Canva / Fotor / Bannerbear to export an animated GIF (900×200–400px works well).  
-   - Upload it to GitHub (in repo `assets/`), then use the raw URL: `https://raw.githubusercontent.com/<your-username>/<repo>/main/assets/banner.gif`
+<p align="center">
+  
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/mlflow-000000?style=for-the-badge&logo=mlflow&logoColor=blue"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
 
-3. **Add more animated badges** — explore shields.io badges or animated GIF badges; place them under “Animated Highlights”.
+</p>
 
 ---
 
-## 🧾 Want me to:
-- Design a **custom banner GIF** (I’ll give you exact specs and a concept), or  
-- Make a **fully themed color palette** (lavender, teal, or midnight), or  
-- Add a **skills progress animation** and project cards?
+## 📊 **GitHub Stats**
 
-Tell me which one and I’ll produce the image / final README right away (I’ll give the exact GIF URL to paste).  
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Nababorah9854&theme=tokyonight&hide_border=false&show_icons=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="160px" src="https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🌈 **Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nababorah9854&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for Visiting! Keep Learning & Keep Building ✨</h3>
