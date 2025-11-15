@@ -1,67 +1,48 @@
-# Hi 👋, I'm Nabanita Borah  
+# Hi, I'm Nabanita Borah 👋  
+**Aspiring Data Professional | Machine Learning Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&width=500&lines=Aspiring+Data+Professional;Machine+Learning+Enthusiast;Exploring+Quantum+ML)](https://git.io/typing-svg)
-
-🚀 Aspiring Data Professional | Exploring the World of Data, Analytics & ML    
-
-![Profile Views](https://komarev.com/ghpvc/?username=Nababorah9854&color=blueviolet)
+I explore data, build models, and enjoy turning raw information into meaningful insights.  
+Currently growing in **Machine Learning, Data Analytics, and Quantum ML** while strengthening fundamentals in **SQL, Python, and Data Structures**.
 
 ---
 
-## 🌟 About Me  
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+## 🌟 About Me
+- Passionate about solving problems using data  
+- Experience in preprocessing, EDA, visualization, model development, and evaluation  
+- Learning advanced ML concepts and exploring Quantum Machine Learning  
+- Building strong foundations in SQL, PostgreSQL, and DSA  
+- Curious learner with interest in data-driven decision making  
 
-- 🎯 Passionate about uncovering insights through data and solving real-world problems  
-- 🧠 Learning and experimenting with **Data Analytics, Machine Learning, and Quantum ML**  
-- 📊 Hands-on experience in **data preprocessing, visualization, model development, and evaluation**  
-- 🗄️ Exploring **SQL, PostgreSQL, and DSA** to strengthen foundations in data and problem-solving  
-- ⚡ Interested in the intersection of **data, technology, and decision-making**  
-- 🌱 Continuous learner and curious builder  
-
-📫 Reach me: **borahnabanitawork@gmail.com**
+📫 **Email:** borahnabanitawork@gmail.com  
 
 ---
 
-## 📂 Featured Projects
-- [Quantum ML Project](https://github.com/Nababorah9854/quantum-ml-project) – Hybrid Quantum-Classical Models for Image Classification  
+## 🛠 Tech Stack
+**Programming:** Python, R  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**ML & DL:** Scikit-learn, TensorFlow, PyTorch, Keras  
+**Tools & Libraries:** Pandas, NumPy, Matplotlib, Git, GitHub, MLflow  
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nabanita02)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:borahnabanitawork@gmail.com)  
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/mili_booo)
+## 📂 Featured Project
+### 🔹 Quantum ML Project  
+Hybrid Quantum–Classical model for image classification  
+🔗 https://github.com/Nababorah9854/quantum-ml-project  
 
 ---
 
-## 💻 Tech Stack  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![mlflow](https://img.shields.io/badge/mlflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Insights
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nababorah9854&show_icons=true&theme=default&hide_border=false)
+
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&layout=compact&hide_border=false)
 
 ---
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Nababorah9854&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 📈 Contribution Graph  
-![Nabanita's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nababorah9854&theme=tokyo-night)
-
----
+## 🌐 Connect With Me
+[LinkedIn](https://linkedin.com/in/nabanita02) •  
+[X](https://x.com/mili_booo) •  
+[Email](mailto:borahnabanitawork@gmail.com)
 
