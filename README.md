@@ -1,111 +1,69 @@
-<!-- ✨ Ultra-Unique GitHub README | Nabanita Borah ✨ -->
+<!-- 🌿 Calm & Unique GitHub README | Nabanita Borah -->
 
-<h1 align="center">
-  Hello World 👋 <br/>
-  I'm <span style="color:#36BCF7;">Nabanita Borah</span>
-</h1>
+<h2 align="center">
+  Hi, I’m Nabanita 🌼
+</h2>
 
 <p align="center">
-  <em>Turning data into decisions • Curiosity-driven ML explorer • Learning quantum intelligence</em>
+  <em>Learning data. Thinking deeply. Building slowly.</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Aspiring+Data+Analyst+%26+ML+Engineer;Building+Real-World+ML+Projects;Exploring+Hybrid+Quantum+Machine+Learning;Learning+Every+Day+→+Improving+Every+Week" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nababorah9854&label=Profile%20Views&color=36BCF7&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&pause=1500&color=9CA3AF&center=true&vCenter=true&width=520&lines=Aspiring+Data+Analyst;Machine+Learning+Learner;Curious+about+Quantum+ML" />
 </p>
 
 ---
 
-## 🌱 Who Am I?
+### 🌱 About Me
 
-<img align="right" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+I’m someone who enjoys **understanding before implementing**.
 
-I’m **Nabanita**, an aspiring **Data & Machine Learning professional** who loves working at the intersection of:
-
-- 📊 **Data → Insights → Decisions**
-- 🤖 **Machine Learning & Model Building**
-- ⚛️ **Quantum ML (Hybrid Classical–Quantum Models)**
-
-I enjoy breaking down complex problems, experimenting with models, and improving systems step by step.
+- I like working with data when it **tells a story**
+- I’m learning **machine learning step by step**
+- I explore **quantum ML out of curiosity**, not hype
+- I believe consistency matters more than speed
 
 📍 India  
 📫 **Email:** `borahnabanitawork@gmail.com`
 
 ---
 
-## 🔭 What I’m Currently Focused On
+### 🧠 Current Focus
 
-- ✅ End-to-end ML pipelines  
-- ✅ SQL, PostgreSQL & analytics thinking  
-- ✅ Hybrid quantum–classical models  
-- ✅ Clean code, logging & experiments  
-- 🚀 Preparing for data roles  
+- Data analysis & SQL  
+- ML fundamentals  
+- Clean, readable code  
+- One strong project at a time  
 
 ---
 
-## 🧠 Highlight Project
+### 🧪 A Project I Care About
 
-### ⚛️ Hybrid Quantum Machine Learning  
-**Quantum–Classical Image Classification System**
+**Hybrid Quantum–Classical Image Classification**
 
-- ResNet + Quantum layers  
-- PyTorch & PennyLane  
+Not because it’s trendy —  
+but because it taught me **how classical and quantum ideas connect**.
 
 🔗 https://github.com/Nababorah9854/quantum-ml-project
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tools I Use
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,r,postgres,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" /><br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,mlflow" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+`Python` · `SQL` · `Pandas` · `NumPy`  
+`Scikit-learn` · `PyTorch` · `PostgreSQL`  
+`Git` · `GitHub`
 
 ---
 
-## 📈 GitHub Stats
+### 🤍 Let’s Connect
 
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Nababorah9854&show_icons=true&theme=tokyonight" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="165px" src="https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&theme=tokyonight" />
-</p>
+- [LinkedIn](https://linkedin.com/in/nabanita02)  
+- [Email](mailto:borahnabanitawork@gmail.com)  
+- [X](https://x.com/mili_booo)
 
 ---
 
-## 🌌 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nababorah9854&theme=tokyo-night" />
+  <em>Still learning. Still improving. That’s enough for now.</em>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/nabanita02">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:borahnabanitawork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/mili_booo">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">
-✨ Building skills. Learning deeply. One project at a time. ✨
-</h3>
