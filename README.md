@@ -1,4 +1,4 @@
-<!-- Calm, Cute & Animated GitHub README for Nabanita -->
+<!-- ✨ Calm, Cute & Animated GitHub README with Floating Emoji Sparks | Nabanita Borah ✨ -->
 
 <h1 align="center">Hi 👋, I'm <span style="color:#36BCF7;">Nabanita Borah</span></h1>
 
@@ -97,9 +97,9 @@ Hybrid Quantum-Classical Models for Image Classification
 
 ---
 
-<!-- 🌸 Floating Emoji Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=FFB6C1&width=500&lines=🌸;✨;💙;⚛️;📊;🚀;🧠" />
-</div>
+<!-- 🌸 Floating Pastel Emoji Sparks Across README -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=FFB6C1,ADD8E6,FFC0CB&center=true&vCenter=true&width=500&lines=🌸✨💙⚛️📊🚀🧠" />
+</p>
 
 <h3 align="center">✨ Thanks for Visiting! Keep Learning & Keep Building ✨</h3>
