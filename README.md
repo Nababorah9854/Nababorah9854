@@ -1,102 +1,104 @@
-<!-- Beautiful Premium GitHub README for Nabanita -->
+<!-- 🌟 Animated Premium GitHub README | Nabanita Borah 🌟 -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#36BCF7;">Nabanita Borah</span></h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi, I'm <span style="color:#36BCF7;">Nabanita Borah</span>
+</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=700&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Professional;Machine+Learning+Enthusiast;Exploring+Quantum+ML" />
-  </a>
+  <em>Data • Analytics • Machine Learning • Quantum Curiosity</em>
 </p>
 
 <p align="center">
-🚀 <strong>Aspiring Data Professional</strong> | Diving into Data, Analytics & Machine Learning  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=600&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Data+Professional;Machine+Learning+Enthusiast;Exploring+Quantum+Machine+Learning;Turning+Data+into+Meaningful+Insights;Consistency+Over+Motivation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nababorah9854&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Nababorah9854&label=Profile%20Views&color=36BCF7&style=flat-square" />
 </p>
 
 ---
 
-## 🌸 **About Me**
+## 🌸 About Me
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+💙 I believe **data is not just numbers**, but stories waiting to be understood.
 
 - 🎯 Passionate about uncovering insights through data  
-- 🧠 Exploring **Machine Learning, Data Analytics, and Quantum ML**  
-- 🧪 Skilled in **data preprocessing, visualization, and ML model building**  
-- 🗄️ Strengthening **SQL, PostgreSQL, and Data Structures**  
-- 🔍 Interested in **tech + decision-making + patterns in data**  
-- 🌱 Always learning, building, and experimenting  
+- 🧠 Exploring **Machine Learning, Data Analytics & Quantum ML**  
+- 🧪 Experienced in **data preprocessing, visualization & model building**  
+- 🗄️ Strengthening **SQL, PostgreSQL & data fundamentals**  
+- 🔍 Curious about **patterns, decisions & real-world impact**  
+- 🌱 Learning consistently and building thoughtfully  
 
-📫 **Reach me:** _borahnabanitawork@gmail.com_
-
-<br>
+📫 **Reach me:** `borahnabanitawork@gmail.com`
 
 ---
 
-## ✨ **Featured Project**
+## ✨ Featured Project
 
-### 🔹 **Quantum ML Project**  
-Hybrid Quantum-Classical Models for Image Classification  
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+</p>
+
+### ⚛️ Quantum Machine Learning  
+**Hybrid Quantum–Classical Models for Image Classification**
+
+- ResNet-based deep learning backbones  
+- Quantum circuit layers  
+- PyTorch & PennyLane implementation  
+
 🔗 https://github.com/Nababorah9854/quantum-ml-project
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/nabanita02">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:borahnabanitawork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/mili_booo">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 **Tech Stack**
+## 💻 Tech Stack
 
 <p align="center">
-  
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-<img src="https://img.shields.io/badge/mlflow-000000?style=for-the-badge&logo=mlflow&logoColor=blue"/>
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras" />
+<br/>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Nababorah9854&theme=tokyonight&hide_border=false&show_icons=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&theme=tokyonight&layout=compact&hide_border=false" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Nababorah9854&theme=tokyonight&show_icons=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nababorah9854&theme=tokyonight&layout=compact"/>
 </p>
 
 <p align="center">
-  <img height="160px" src="https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&theme=tokyonight&hide_border=false" />
+  <img height="160px" src="https://nirzak-streak-stats.vercel.app/?user=Nababorah9854&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌈 **Contribution Graph**
+## 🌈 Contribution Journey
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nababorah9854&theme=tokyo-night" />
@@ -104,4 +106,14 @@ Hybrid Quantum-Classical Models for Image Classification
 
 ---
 
-<h3 align="center">✨ Thanks for Visiting! Keep Learning & Keep Building ✨</h3> 
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nababorah9854/Nababorah9854/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting — keep learning, keep building, keep growing ✨
+</h3>
